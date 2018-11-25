@@ -57,9 +57,10 @@ Learn Python by developing fun to play games. The games demonstrate various conc
 
 
 ## How to Run
-
+The games run on the browser-based programming environment [CodeSkulptor](http://www.codeskulptor.org/)
 
 ## Note
+ because they use some specific libraries to render graphics and to respond to events which are programmed in the CodeSkulptor. A minor part of the whole code is just specific to CodeSkulptor but the game's logic and classes etc are in Python. 
 
 -----------------------------
 ## Author
