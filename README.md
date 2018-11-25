@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../master/gameplays/gameplay8"/>
+  <img src="../master/gameplays/gameplay8.gif"/>
 </p>
 
 
@@ -17,42 +17,42 @@ Learn Python by developing fun to play games. The games demonstrate various conc
 
 ## 1- Rock-Paper-Scissors
 <p align="center">
-  <img src="../master/gameplays/gameplay1"/>
+  <img src="../master/gameplays/gameplay1.gif"/>
   </p>
 
 ## 2- Guess the Number
 <p align="center">
-  <img src="../master/gameplays/gameplay2"/>
+  <img src="../master/gameplays/gameplay2.gif"/>
   </p>
 
 ## 3- Stop Watch: The Game
 <p align="center">
-  <img src="../master/gameplays/gameplay3"/>
+  <img src="../master/gameplays/gameplay3.gif"/>
   </p>
 
 ## 4- Pong
 <p align="center">
-  <img src="../master/gameplays/gameplay4"/>
+  <img src="../master/gameplays/gameplay4.gif"/>
   </p>
 
 ## 5- Memory
 <p align="center">
-  <img src="../master/gameplays/gameplay5"/>
+  <img src="../master/gameplays/gameplay5.gif"/>
   </p>
 
 ## 6- Blackjack
 <p align="center">
-  <img src="../master/gameplays/gameplay6"/>
+  <img src="../master/gameplays/gameplay6.gif"/>
   </p>
 
 ## 7- Spaceship
 <p align="center">
-  <img src="../master/gameplays/gameplay7"/>
+  <img src="../master/gameplays/gameplay7.gif"/>
   </p>
 
 ## 8- Asteroids
 <p align="center">
-  <img src="../master/gameplays/gameplay8"/>
+  <img src="../master/gameplays/gameplay8.gif"/>
   </p>
 
 
