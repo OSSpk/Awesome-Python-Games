@@ -7,7 +7,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Awesome-Python-Games.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Awesome-Python-Games/issues)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](#)
 
 
 
