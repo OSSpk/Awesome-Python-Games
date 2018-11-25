@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="../master/gameplays/gameplay8.gif" width=520 height=350/>
+<p align="left">
+  <img src="../master/gameplays/gameplay8.gif" width=420 height=350/>
+  <img src="../master/gameplays/gameplay4.gif" width=445 height=350/>
 </p>
+
 
 
 # 🎉 Awesome-Python-Games  
