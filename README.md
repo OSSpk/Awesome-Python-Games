@@ -13,7 +13,9 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](#)
 
-Learn Python by developing fun to play games. The games demonstrate various concepts in Python from basic ones to object oriented programming in Python. These games were made as assignments during the course "[Interactive Programming in Python by Rice University - Part 1 & 2](https://www.coursera.org/learn/interactive-python-1)"
+Learn Python by developing fun to play games. These games were made as assignments during the course "[Interactive Programming in Python by Rice University - Part 1 & 2](https://www.coursera.org/learn/interactive-python-1)." These games are shared for learning purposes since it always feels awesome to make a game using any programming language :)
+
+The games are in increasing order of complexity with the last one named 'Asteroids' be a really cool game to look at.
 
 ## 1- Rock-Paper-Scissors
 <p align="center">
@@ -57,10 +59,12 @@ Learn Python by developing fun to play games. The games demonstrate various conc
 
 
 ## How to Run
-The games run on the browser-based programming environment [CodeSkulptor](http://www.codeskulptor.org/)
+The games run on the browser-based programming environment [CodeSkulptor](http://www.codeskulptor.org/). Simply copy a game's code and paste it in the CodeSkulptor Editor. Then just click the Run button and the game will be started.
 
 ## Note
- because they use some specific libraries to render graphics and to respond to events which are programmed in the CodeSkulptor. A minor part of the whole code is just specific to CodeSkulptor but the game's logic and classes etc are in Python. 
+These games are built in Python 2 but they use a specific library to draw the canvas and to do the event-based programming. This library named 'simplegui' is only accessible in the browser based IDE CodeSkulptor hence its necessary to run the code using CodeSkulptor. 
+
+
 
 -----------------------------
 ## Author
