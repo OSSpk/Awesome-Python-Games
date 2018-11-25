@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../master/gameplays/gameplay8"/>
+</p>
+
 
 # 🎉 Awesome-Python-Games  
 
@@ -9,10 +13,55 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](#)
 
+Learn Python by developing fun to play games. The games demonstrate various concepts in Python from basic ones to object oriented programming in Python. These games were made as assignments during the course "[Interactive Programming in Python by Rice University - Part 1 & 2](https://www.coursera.org/learn/interactive-python-1)"
+
+## 1- Rock-Paper-Scissors
+<p align="center">
+  <img src="../master/gameplays/gameplay1"/>
+  </p>
+
+## 2- Guess the Number
+<p align="center">
+  <img src="../master/gameplays/gameplay2"/>
+  </p>
+
+## 3- Stop Watch: The Game
+<p align="center">
+  <img src="../master/gameplays/gameplay3"/>
+  </p>
+
+## 4- Pong
+<p align="center">
+  <img src="../master/gameplays/gameplay4"/>
+  </p>
+
+## 5- Memory
+<p align="center">
+  <img src="../master/gameplays/gameplay5"/>
+  </p>
+
+## 6- Blackjack
+<p align="center">
+  <img src="../master/gameplays/gameplay6"/>
+  </p>
+
+## 7- Spaceship
+<p align="center">
+  <img src="../master/gameplays/gameplay7"/>
+  </p>
+
+## 8- Asteroids
+<p align="center">
+  <img src="../master/gameplays/gameplay8"/>
+  </p>
 
 
+## How to Run
 
 
+## Note
+
+-----------------------------
 ## Author
 You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/harismuneer)
