@@ -17,7 +17,7 @@ Learn Python by developing fun to play games. The games demonstrate various conc
 
 ## 1- Rock-Paper-Scissors
 <p align="center">
-  <img src="../master/gameplays/gameplay1.gif">
+  <img src="../master/gameplays/gameplay1.gif"/>
   </p>
 
 ## 2- Guess the Number
@@ -52,7 +52,7 @@ Learn Python by developing fun to play games. The games demonstrate various conc
 
 ## 8- Asteroids
 <p align="center">
-  <img src="../master/gameplays/gameplay8.gif"/>
+  <img src="../master/gameplays/gameplay8.gif" width=520 height=350/>
   </p>
 
 
