@@ -17,7 +17,7 @@ Learn Python by developing fun to play games like Pong and Asteroids. The games 
 
 These games were made as assignments during the course "[Interactive Programming in Python by Rice University - Part 1 & 2](https://www.coursera.org/learn/interactive-python-1)." I am sharing these for learning purposes since it always feels awesome to make a game using any programming language :)
 
-The games are intuitively in increasing order of complexity hence making the last one named 'Asteroids' a really cool game to look at.
+There are total 8 games which are intuitively in increasing order of complexity hence making the last one named 'Asteroids' a really cool game to look at.
 
 ## 1- Rock-Paper-Scissors
 <p align="center">
