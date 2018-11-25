@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../master/gameplays/gameplay8"/>
+</p>
+
 
 # 🎉 Awesome-Python-Games  
 
