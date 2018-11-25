@@ -13,7 +13,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](#)
 
-Learn Python by developing fun to play games like Pong and Asteroids. There are some basic games as well as some advanced ones which demonstrate the concepts of Classes in Python along with the Physics logic required to make such games. 
+Learn Python by developing fun to play games like Pong and Asteroids. The games range from basic ones (which demonstrate basic concepts in Python) to some advanced ones which demonstrate the concepts of Classes in Python along with the Physics logic required to make such games. 
 
 These games were made as assignments during the course "[Interactive Programming in Python by Rice University - Part 1 & 2](https://www.coursera.org/learn/interactive-python-1)." I am sharing these for learning purposes since it always feels awesome to make a game using any programming language :)
 
