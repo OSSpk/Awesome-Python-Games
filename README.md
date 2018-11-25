@@ -61,10 +61,10 @@ There are total 8 games which are intuitively in increasing order of complexity 
 
 
 ## How to Run
-The games run on the browser-based programming environment [CodeSkulptor](http://www.codeskulptor.org/). Simply copy a game's code and paste it in the CodeSkulptor Editor. Then just click the Run button and the game will be started.
+The games run on the browser-based programming environment [CodeSkulptor](http://www.codeskulptor.org/). Simply copy all of a game's code using and paste it in the CodeSkulptor Editor. Then just click the Run button and the game will get started.
 
 ## Note
-These games are built in Python 2 but they use a specific library to draw the canvas and to do the event-based programming. This library named 'simplegui' is only accessible in the browser based IDE CodeSkulptor hence its necessary to run the code using CodeSkulptor. 
+These games are built in Python 2. They use a specific library to draw the canvas and to do the event-based programming. This library named 'simplegui' is only accessible in the browser based IDE CodeSkulptor hence its necessary to run the code using CodeSkulptor. 
 
 
 
