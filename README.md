@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../master/gameplays/.gif" width=520 height=350/>
+  <img src="../master/gameplays/8.gif" width=520 height=350/>
 </p>
 
 
