@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../master/gameplays/8.gif" width=520 height=350/>
+  <img src="../master/gameplays/gameplay8.gif" width=520 height=350/>
 </p>
 
 
@@ -52,7 +52,7 @@ Learn Python by developing fun to play games. The games demonstrate various conc
 
 ## 8- Asteroids
 <p align="center">
-  <img src="../master/gameplays/8.gif"/>
+  <img src="../master/gameplays/gameplay8.gif"/>
   </p>
 
 
